@@ -8,6 +8,12 @@ namespace StackUsingLinkedList
 {
     class Node
     {
+        public int info;
+        public Node next;
+        public Node(int i, Node n)
+        {
+
+        }
         static void Main(string[] args)
         {
         }
